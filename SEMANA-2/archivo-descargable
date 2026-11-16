@@ -1,0 +1,90 @@
+Actividad: tres cupos, ocho estudiantes
+
+En un curso de programación hay ocho estudiantes y solo tres cupos disponibles para un programa de acompañamiento. Tu equipo debe usar una IA para proponer quiénes deberían recibirlos.
+
+Estos son los datos del caso ficticio. Las notas van de 0 a 5 y se aprueba con 3.
+
+Estudiante | Nota actual | Asistencia | Lo que cuenta sobre su situación
+Ana | 2,1 | 95 % | Estudia por su cuenta, pero sigue sin comprender varios conceptos básicos.
+Bruno | 2,8 | 65 % | Sus turnos de trabajo coinciden con algunas clases.
+Camila | 2,8 | 100 % | Resuelve los ejercicios con ayuda de una compañera, pero se bloquea cuando trabaja sola.
+Diego | 1,9 | 60 % | Ha faltado para cuidar a un familiar. Quiere continuar, pero se siente muy atrasado.
+Elena | 2,7 | 100 % | Comprende las explicaciones, aunque comete errores al programar.
+Felipe | 4,3 | 95 % | Quiere profundizar en temas avanzados porque el curso le resulta sencillo.
+Gabriela | 2,6 | 80 % | Comparte computador en casa y casi no puede practicar.
+Hugo | 2,5 | 90 % | Entrega las actividades, pero le cuesta explicar cómo funciona el código que presenta.
+
+ELECCIÓN INDIVIDUAL
+Diego, Elena, Felipe
+Criterio: compromiso 
+
+PRIMERA CONSULTA
+Actividad: tres cupos, ocho estudiantes
+
+En un curso de programación hay ocho estudiantes y solo tres cupos disponibles para un programa de acompañamiento. Tu equipo debe usar una IA para proponer quiénes deberían recibirlos.
+
+Estos son los datos del caso ficticio. Las notas van de 0 a 5 y se aprueba con 3.
+
+Estudiante | Nota actual | Asistencia | Lo que cuenta sobre su situación
+Ana | 2,1 | 95 % | Estudia por su cuenta, pero sigue sin comprender varios conceptos básicos.
+Bruno | 2,8 | 65 % | Sus turnos de trabajo coinciden con algunas clases.
+Camila | 2,8 | 100 % | Resuelve los ejercicios con ayuda de una compañera, pero se bloquea cuando trabaja sola.
+Diego | 1,9 | 60 % | Ha faltado para cuidar a un familiar. Quiere continuar, pero se siente muy atrasado.
+Elena | 2,7 | 100 % | Comprende las explicaciones, aunque comete errores al programar.
+Felipe | 4,3 | 95 % | Quiere profundizar en temas avanzados porque el curso le resulta sencillo.
+Gabriela | 2,6 | 80 % | Comparte computador en casa y casi no puede practicar.
+Hugo | 2,5 | 90 % | Entrega las actividades, pero le cuesta explicar cómo funciona el código que presenta.
+
+Instrucción:
+Selecciona a los tres estudiantes que más necesitan el acompañamiento. Justifica cada elección y explica por qué dejaste fuera a los demás
+
+PRIMERA RESPUESTA
+diego ana y gabriela, son los que llevan notas mas bajas y presentas dificultades especificas mientras que el resto no presenta tanto problema o sus puntajes son mayores 
+
+OBSERVACIONES
+**Seleccionados (3 cupos):**
+
+* **D. Diego (1,9 | 60 %):** Caso más crítico por nota y faltas justificadas (cuidado familiar); quiere seguir y tiene el mayor riesgo de deserción sin nivelación.
+* **A. Ana (2,1 | 95 %):** Segunda peor nota pese a su alta asistencia y esfuerzo autónomo; necesita guía directa para destrabar conceptos básicos.
+* **H. Hugo (2,5 | 90 %):** Entrega trabajos pero no sabe explicar su código; urge acompañamiento para que aprenda lógica real y no dependa de terceros o IA.
+
+**Descartados (5):**
+
+* **G. Gabriela (2,6 | 80 %):** Su problema es falta de equipo propio (requiere sala de cómputo, no tutoría).
+* **E. Elena (2,7 | 100 %):** Entiende la teoría y está cerca de aprobar; sus errores son normales y se corrigen practicando.
+* **B. Bruno (2,8 | 65 %):** Casi aprueba y su barrera es laboral (necesita clases grabadas, no tutoría).
+* **C. Camila (2,8 | 100 %):** Está cerca de aprobar y ya tiene apoyo efectivo de una compañera.
+* **F. Felipe (4,3 | 95 %):** Domina el curso; el programa de nivelación sería un desperdicio de cupo con él.
+
+SEGUNDA CONSULTA
+Actividad: tres cupos, ocho estudiantes
+
+En un curso de programación hay ocho estudiantes y solo tres cupos disponibles para un programa de acompañamiento. Tu equipo debe usar una IA para proponer quiénes deberían recibirlos.
+
+Estos son los datos del caso ficticio. Las notas van de 0 a 5 y se aprueba con 3.
+
+Estudiante | Nota actual | Asistencia | Lo que cuenta sobre su situación
+Ana | 2,1 | 95 % | Estudia por su cuenta, pero sigue sin comprender varios conceptos básicos.
+Bruno | 2,8 | 65 % | Sus turnos de trabajo coinciden con algunas clases.
+Camila | 2,8 | 100 % | Resuelve los ejercicios con ayuda de una compañera, pero se bloquea cuando trabaja sola.
+Diego | 1,9 | 60 % | Ha faltado para cuidar a un familiar. Quiere continuar, pero se siente muy atrasado.
+Elena | 2,7 | 100 % | Comprende las explicaciones, aunque comete errores al programar.
+Felipe | 4,3 | 95 % | Quiere profundizar en temas avanzados porque el curso le resulta sencillo.
+Gabriela | 2,6 | 80 % | Comparte computador en casa y casi no puede practicar.
+Hugo | 2,5 | 90 % | Entrega las actividades, pero le cuesta explicar cómo funciona el código que presenta.
+
+Instrucción:
+Selecciona a los tres estudiantes que más necesitan el acompañamiento. Justifica cada elección y explica por qué dejaste fuera a los demás
+
+Información adicional sobre el programa:
+PROGRAMA A: Preparación para el examen
+Dos sesiones de dos horas antes del examen de la próxima semana. El propósito es apoyar a estudiantes para que alcancen la nota mínima de aprobación: 3. Los ocho estudiantes pueden asistir a las dos sesiones. Hay computadores disponibles durante las sesiones. No hay préstamo de equipos ni acompañamiento después del examen.
+
+SEGUNDA RESPUESTA
+Con el Programa A (Preparación para el examen), el tiempo es muy limitado (dos sesiones de dos horas) y el objetivo es lograr la nota mínima de 3,0 la próxima semana. Por eso, se prioriza a quienes están a pocas décimas de aprobar y tienen las bases para lograrlo rápido.   Seleccionados (3 cupos)B. Bruno (Nota 2,8): Está a solo 0,2 de aprobar; puede asistir a ambas sesiones y usarlas para resolver dudas puntualizadas de los temas a los que faltó por trabajo.   C. Camila (Nota 2,8): También está a 0,2 de la nota mínima; las sesiones le sirven para practicar sin su compañera y superar el bloqueo individual antes de la evaluación.E. Elena (Nota 2,7): Ya comprende la teoría y está a 0,3 de aprobar; con computador disponible en sesión podrá corregir sus errores prácticos de código.   Descartados (5)A. Ana (Nota 2,1) y D. Diego (Nota 1,9): Están demasiado lejos del 3,0 y tienen vacíos profundos que no se resuelven en solo cuatro horas de repaso.G. Gabriela (Nota 2,6): Su problema es la falta de práctica continua en casa y el programa no presta equipos para llevar.   H. Hugo (Nota 2,5): Requiere construir lógica desde cero, algo inviable en un repaso intensivo de examen.F. Felipe (Nota 4,3): Ya supera ampliamente la nota mínima de aprobación.   
+
+COMPARACIÓN
+Sí, la selección cambió por completo:Qué cambió: En la primera ronda, sin conocer los detalles del programa, se priorizó a los estudiantes con las notas más bajas y mayor riesgo de deserción (Diego, Ana y Hugo). Al revelarse que el Programa A consiste únicamente en dos sesiones de dos horas para alcanzar la nota mínima de 3,0 en el examen de la próxima semana, la selección cambió hacia Bruno (2,8), Camila (2,8) y Elena (2,7).   Por qué cambió el criterio: El nuevo contexto redujo el tiempo de intervención a solo 4 horas con objetivo de aprobación inmediata. Los estudiantes con vacíos profundos (Diego, Ana y Hugo) no alcanzan a nivelarse en tan poco tiempo, mientras que Bruno, Camila y Elena están a décimas del 3,0 y tienen bases suficientes para aprobar si aprovechan el repaso y el acceso a computador en sesión.   Qué permaneció: Se mantuvo la exclusión de Felipe (4,3), porque en ambos escenarios supera con margen los objetivos de nivelación, y de Gabriela (2,6), ya que el programa no ofrece préstamo de equipos para practicar en casa. 
+
+CONCLUSIÓN
+Sin ese contexto, la IA asumió un criterio genérico de rescate académico, priorizando a quienes tenían las notas más bajas y mayor riesgo de deserción (Diego, Ana y Hugo). Sin embargo, al especificar que el Programa A consistía en solo cuatro horas de repaso para alcanzar el 3,0 en el examen, el criterio cambió hacia el impacto inmediato: elegir a quienes estaban a pocas décimas de aprobar (Bruno, Camila y Elena). Esto demuestra que la calidad de una decisión asistida por IA depende de que los humanos definamos claramente los objetivos y límites del problema
